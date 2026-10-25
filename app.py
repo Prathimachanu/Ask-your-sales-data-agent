@@ -1,9 +1,3 @@
-"""
-STEP 5: The chat website - what a client (and your company laptop, once
-deployed) will actually open in a browser.
-Run locally: streamlit run app.py
-"""
-
 import streamlit as st
 from agent_groq import ask_agent
 
